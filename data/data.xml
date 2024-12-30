@@ -1,0 +1,17 @@
+<root>
+    <user>
+        <email>123@gmail.com</email>
+        <name>name1</name>
+    </user>
+    <user>
+        <email>321@gmail.com</email>
+        <name>name2</name>
+    </user>
+    <value1>1</value1>
+    <value2>1</value2>
+    <meta>
+        <date>today</date>
+        <x>33</x>
+    </meta>
+</root>
+
